@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-eslint": "^4.0.2",
+    "gulp-html-version": "^1.0.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify-es": "^1.0.1",
+    "html-loader": "^0.5.5",
+    "webpack-stream": "^4.0.2"
+  },
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "Progressive Web App playground",
+  "main": "index.js",
+  "author": "Jesús Germade <jesus@germade.es>",
+  "license": "MIT",
+  "private": false
+}
